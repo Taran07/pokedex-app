@@ -1,4 +1,5 @@
-# This is a pokedex App developed in react
+# This is a pokedex App developed in 
+react
 
 # Steps to set up the environment:
 # 1. Copy the link for this branch either from github or from the browser url.
